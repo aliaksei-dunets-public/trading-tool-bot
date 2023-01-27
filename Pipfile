@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 requests = "*"
-aiogram = "*"
 python-dotenv = "*"
+aiogram = "~=2.24"
 
 [dev-packages]
 
